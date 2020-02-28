@@ -1,0 +1,27 @@
+C:\Users\sarfraz.khan\source\repos\FractalSummative\FractalSummative\FractalSummative\FractalSummative\bin\Debug\FractalSummative.exe.config
+C:\Users\sarfraz.khan\source\repos\FractalSummative\FractalSummative\FractalSummative\FractalSummative\bin\Debug\FractalSummative.exe
+C:\Users\sarfraz.khan\source\repos\FractalSummative\FractalSummative\FractalSummative\FractalSummative\bin\Debug\FractalSummative.pdb
+C:\Users\sarfraz.khan\source\repos\FractalSummative\FractalSummative\FractalSummative\FractalSummative\obj\Debug\FractalSummative.csprojAssemblyReference.cache
+C:\Users\sarfraz.khan\source\repos\FractalSummative\FractalSummative\FractalSummative\FractalSummative\obj\Debug\FractalSummative.SierpinskisTriangleFractal.resources
+C:\Users\sarfraz.khan\source\repos\FractalSummative\FractalSummative\FractalSummative\FractalSummative\obj\Debug\FractalSummative.Properties.Resources.resources
+C:\Users\sarfraz.khan\source\repos\FractalSummative\FractalSummative\FractalSummative\FractalSummative\obj\Debug\FractalSummative.csproj.GenerateResource.cache
+C:\Users\sarfraz.khan\source\repos\FractalSummative\FractalSummative\FractalSummative\FractalSummative\obj\Debug\FractalSummative.exe
+C:\Users\sarfraz.khan\source\repos\FractalSummative\FractalSummative\FractalSummative\FractalSummative\obj\Debug\FractalSummative.pdb
+C:\Users\sarfraz.khan\Desktop\FractalSummative\FractalSummative\bin\Debug\FractalSummative.exe.config
+C:\Users\sarfraz.khan\Desktop\FractalSummative\FractalSummative\bin\Debug\FractalSummative.exe
+C:\Users\sarfraz.khan\Desktop\FractalSummative\FractalSummative\bin\Debug\FractalSummative.pdb
+C:\Users\sarfraz.khan\Desktop\FractalSummative\FractalSummative\obj\Debug\FractalSummative.csprojAssemblyReference.cache
+C:\Users\sarfraz.khan\Desktop\FractalSummative\FractalSummative\obj\Debug\FractalSummative.SierpinskisTriangleFractal.resources
+C:\Users\sarfraz.khan\Desktop\FractalSummative\FractalSummative\obj\Debug\FractalSummative.Properties.Resources.resources
+C:\Users\sarfraz.khan\Desktop\FractalSummative\FractalSummative\obj\Debug\FractalSummative.csproj.GenerateResource.cache
+C:\Users\sarfraz.khan\Desktop\FractalSummative\FractalSummative\obj\Debug\FractalSummative.exe
+C:\Users\sarfraz.khan\Desktop\FractalSummative\FractalSummative\obj\Debug\FractalSummative.pdb
+C:\Users\moham\Downloads\FractalSummative (2)\FractalSummative\FractalSummative\bin\Debug\FractalSummative.exe.config
+C:\Users\moham\Downloads\FractalSummative (2)\FractalSummative\FractalSummative\bin\Debug\FractalSummative.exe
+C:\Users\moham\Downloads\FractalSummative (2)\FractalSummative\FractalSummative\bin\Debug\FractalSummative.pdb
+C:\Users\moham\Downloads\FractalSummative (2)\FractalSummative\FractalSummative\obj\Debug\FractalSummative.csprojAssemblyReference.cache
+C:\Users\moham\Downloads\FractalSummative (2)\FractalSummative\FractalSummative\obj\Debug\FractalSummative.SierpinskisTriangleFractal.resources
+C:\Users\moham\Downloads\FractalSummative (2)\FractalSummative\FractalSummative\obj\Debug\FractalSummative.Properties.Resources.resources
+C:\Users\moham\Downloads\FractalSummative (2)\FractalSummative\FractalSummative\obj\Debug\FractalSummative.csproj.GenerateResource.cache
+C:\Users\moham\Downloads\FractalSummative (2)\FractalSummative\FractalSummative\obj\Debug\FractalSummative.exe
+C:\Users\moham\Downloads\FractalSummative (2)\FractalSummative\FractalSummative\obj\Debug\FractalSummative.pdb
